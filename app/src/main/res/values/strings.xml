@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="names">
+        <item>Петров Валентин Иванович</item>
+        <item>Смиринова Мария Валентиновна</item>
+        <item>Новиков Егор Петрович</item>
+        <item>Морозов Дмитрий Степанович</item>
+        <item>Лебедев Кирилл Николаевич</item>
+        <item>Павлов Егор Николаевич</item>
+        <item>Козлова Екатерина Петровна</item>
+        <item>Базарьаева Инга Альбертовна</item>
+        <item>Семенов Никита Романович</item>
+        <item>Васильев Максим Алексеевич</item>
+        <item>Попов Денис Волкович</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>хирург</item>
+        <item>гинеколог</item>
+        <item>терапевт</item>
+        <item>лор</item>
+        <item>стоматолог</item>
+        <item>эндокринолог</item>
+        <item>дерматолог</item>
+        <item>окулист</item>
+        <item>травматолог</item>
+        <item>хирург</item>
+        <item>главврач</item>
+    </string-array>
+</resources>
